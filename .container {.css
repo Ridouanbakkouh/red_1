@@ -1,0 +1,15 @@
+.container {
+    width: 300px;
+    height: 200px;
+    background-color: lightgray;
+    position: relative;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
